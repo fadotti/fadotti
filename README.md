@@ -1,7 +1,5 @@
 ## Hi there, it's Fede 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadotti&layout=compact&theme=vue)
-
 <!--
 **fadotti/fadotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
