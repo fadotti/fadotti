@@ -1,5 +1,9 @@
 ## Hi there, it's Fede 👋
 
+🌱 I’m currently learnign about web development by following [The Odin Project](https://www.theodinproject.com/about)'s curriculum. I am at this time learning React and will soon start incorporating database and backend concepts.
+
+![](https://komarev.com/ghpvc/?username=fadotti&color=yellow)
+
 <!--
 **fadotti/fadotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
