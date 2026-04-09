@@ -4,7 +4,7 @@
 
 The following list contains more details about technologies with which I am acquainted:
 
-- Linux (WSL2)
+- Linux CLI (WSL2)
 - JavaScript, HTML5, and CSS3
 - Git and GitHub for version control
 - webpack and Vite to manage/bundle projects
