@@ -1,6 +1,6 @@
 ## Hi there, it's Fede 👋
 
-🌱 I’m currently learning about web development by following [The Odin Project](https://www.theodinproject.com/about)'s curriculum. I have a solid grasp of fundamentals (JS, HTML5 and CSS3) more than a year of using exclusively these basic building blocks. I am at this time learning React and will soon start incorporating database and backend concepts as well.
+🌱 I’m currently learning about web development by following [The Odin Project](https://www.theodinproject.com/about)'s curriculum. I have a solid grasp of fundamentals (JS, HTML5 and CSS3) after more than a year of using exclusively these basic building blocks. I am at this time learning React and will soon start incorporating database and backend concepts as well.
 
 The following list contains more details about technologies with which I am acquainted:
 
