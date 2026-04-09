@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning about web development by following [The Odin Project](https://www.theodinproject.com/about)'s curriculum. I have a solid grasp of fundamentals (JS, HTML5 and CSS3) after about a year of using exclusively these basic building blocks. I am at this time learning React and will soon start incorporating database and backend concepts as well.
 
+🔍 Learning takes place by doing: all of the projects I've worked on to arrive where I'm at are in public repositories on this profile. In most cases the project has been deployed on GitHub pages or vercel as well. Feel free to browse my profile to see the end results and samples of my code.
+
 ![](https://komarev.com/ghpvc/?username=fadotti&color=yellow)
 
 <!--
