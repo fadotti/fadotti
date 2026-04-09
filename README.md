@@ -6,6 +6,7 @@ The following list contains more details about technologies with which I am acqu
 
 - Linux CLI (WSL2)
 - JavaScript, HTML5, and CSS3
+- npm for dependency management
 - Git and GitHub for version control
 - webpack and Vite to manage/bundle projects
 - React for building user interfaces
